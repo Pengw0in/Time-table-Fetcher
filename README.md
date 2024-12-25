@@ -1,5 +1,18 @@
 # GITAM Student Portal Automation Documentation
 
+# Daily Timetable Email Automation
+
+## Status: Discontinued 🚫
+
+This project is no longer actively maintained. The GitHub Actions workflow and the associated scripts have been stopped. If you wish to use or extend this project, feel free to fork it.
+
+### Why Discontinued?
+Due to shifting priorities, this project is no longer relevant to my current work.
+
+### Using the Code
+The code is still available under the [MIT License](LICENSE). You're welcome to explore, modify, and use it for personal or educational purposes.
+
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [File Structure](#file-structure)
